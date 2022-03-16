@@ -17,11 +17,10 @@
         "statusBar.foreground": "#15202b"
     },
     "peacock.remoteColor": "#42b883",
-    "cSpell.words": [
-        "core",
-        "fullfilled",
-        "hookstate",
-        "unmount",
-        "untracked"
-    ]
+    "cSpell.words": ["core", "fullfilled", "hookstate", "unmount", "untracked"],
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.quoteProps": "consistent",
+    "prettier.singleQuote": true,
+    "editor.tabSize": 2
 }
